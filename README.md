@@ -1,4 +1,4 @@
-´´´bash
+```bash
 ### DALI Lighting Control System (Luba-Core)
 Dieses System ermöglicht die automatisierte Steuerung von DALI-Leuchten über einen Raspberry Pi, inklusive physischer Interaktion über ein Matrix-Keypad und ein robustes State-Management.
 
